@@ -1,4 +1,4 @@
-# Keylogger with AES Encryption and Timestamp Logging
+# Python Forensic Logging Tool with AES Encryption
 
 ## Overview
 This Python-based keylogger captures keystrokes, logs them with timestamps, and encrypts the log file using **AES encryption** for security. The encryption ensures that recorded keystrokes remain confidential and can only be decrypted with the correct key.
